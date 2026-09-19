@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mordor Student App</string>
+    <string name="action_settings">Ajustes del Anillo</string>
+    <string name="first_fragment_label">Primer Círculo</string>
+    <string name="second_fragment_label">Segundo Círculo</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="lorem_ipsum">Un Anillo para gobernarlos a todos, un Anillo para encontrarlos, un Anillo para atraer modelBuilder y atarlos en las tinieblas...</string>
+    <string name="bienvenido_a">Tierra Media</string>
+    <string name="imagen_de_usuario">El Ojo de Sauron</string>
+    <string name="carrera">Raza / Disciplina</string>
+    <string name="matr_cula">Código de Séquito</string>
+    <string name="nombre">Nombre del Siervo</string>
+    <string name="name">Name</string>
+    <string name="ej_juan_p_rez">Ej. Aragorn Elessar</string>
+    <string name="ej_2001_3463">Ej. 3019-1930</string>
+    <string name="guardar">Forjar</string>
+    <string name="editar">Reescribir</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="icono_de_la_matricula">icono de la matricula</string>
+    <string name="icono_de_la_carrera">icono de la carrera</string>
+    <string name="icono_del_usuario">icono del usuario</string>
+    <string name="ojo_de_sauron">El Ojo de Sauron - Visión del Señor</string>
+</resources>

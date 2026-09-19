@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/mordor_dark"
+              android:orientation="vertical"
+              android:gravity="center"
+              android:padding="24dp">
+
+    <TextView
+            android:id="@+id/lblSaludo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/one_ring_gold"
+            android:textSize="26sp"
+            android:layout_marginBottom="24dp"/>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/mordor_surface"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+        <TextView
+                android:id="@+id/lblResumenNombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:layout_marginBottom="12dp"/>
+
+        <TextView
+                android:id="@+id/lblResumenMatricula"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:layout_marginBottom="12dp"/>
+
+        <TextView
+                android:id="@+id/lblResumenCarrera"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:layout_marginBottom="20dp"/>
+
+        <Button
+                android:id="@+id/btnEditar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/one_ring_gold"
+                android:text="@string/editar"
+                android:textColor="@color/black"/>
+    </LinearLayout>
+
+</LinearLayout>
