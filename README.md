@@ -215,4 +215,4 @@ Proyecto académico - Desarrollo Móvil 2026
 
 ---
 
-**¡Que el Anillo no corra lo mismo que la app!** 🧙‍♂️👁️
+**¡Que el Anillo no corra lo mismo que la app!**
